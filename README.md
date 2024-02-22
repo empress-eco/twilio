@@ -1,9 +1,18 @@
+
+<div align="center">
+
+<img src="https://grow.empress.eco/uploads/default/original/2X/1/1f1e1044d3864269d2a613577edb9763890422ab.png" alt="Logo" width="80" height="80">
+
 # Twilio Integration: Uninterrupted Communication At Your Fingertips
-![Twilio Integration Logo](https://grow.empress.eco/uploads/default/original/2X/1/1f1e1044d3864269d2a613577edb9763890422ab.png
 
 Twilio Integration is a feature-rich, user-friendly custom application designed to seamlessly incorporate Twilio's comprehensive communication services into your workflow. This tool is a perfect companion for professionals across various industries, including customer support, marketing and more. With Twilio Integration, making outgoing calls, receiving incoming calls, and sending WhatsApp notifications is as easy as a few clicks.
 
 ***[Explore the Docs](https://grow.empress.eco/) | [Report a Bug](https://github.com/empress-eco/twilio/issues) | [Request a Feature](https://github.com/empress-eco/twilio/issues)***
+
+</div>
+
+
+
 
 ## About The Project
 
